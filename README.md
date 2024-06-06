@@ -26,7 +26,7 @@ Detail-oriented professional with over a year of experience in front-end develop
   - Navigating through the world of NextJS for server side rendering.
   - Learing Firebase for easy integration of backend and User Authentication
      
-- 📱 Learning MObile Development
+- 📱 Learning Mobile Development
   - Exploring mobile development using React Native
 
  ## 🏆 Achievements
