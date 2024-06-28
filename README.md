@@ -1,6 +1,6 @@
 # Hi, I'm Swapnil Parashar! 👋
 
-Detail-oriented professional with over a year of experience in front-end development, specializing in React.js and Vue.js. Currently pursuing a BTech from Central University of Haryana. Experienced in creating fully functional e-commerce websites and proficient in HTML, CSS, and JavaScript.
+A dedicated Front-end Developer with over an year of experience, specializing in React.js and Next.js. Demonstrates a unique strength in completing tasks regardless of current skill level by leveraging modern AI tools to transform ideas into code, even when unfamiliar with the technology. Seeking a role to grow as a front-end developer and expand knowledge across different fields.
 
 ![<Swapnil-Parashar>'s Stats](https://github-readme-stats.vercel.app/api?username=Swapnil-Parashar&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
