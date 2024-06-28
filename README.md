@@ -17,7 +17,10 @@ A dedicated Front-end Developer with over an year of experience, specializing in
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,next,vue,github)](https://skillicons.dev)
 
 ## Familiar With
-[![Familiar Tech](https://skillicons.dev/icons?i=bootstrap,tailwind,materialui,firebase,aws,redux,python,codepen,figma,git,vite,vscode)](https://skillicons.dev)
+[![Familiar Tech](https://skillicons.dev/icons?i=bootstrap,tailwind,materialui,firebase,aws,redux,python,figma,git)](https://skillicons.dev)
+
+## Tools
+[![Tools](https://skillicons.dev/icons?i=codepen,vscode,vite,npm,yarn)](https://skillicons.dev)
 
 ## Currently Exploring
 
