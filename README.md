@@ -1,6 +1,6 @@
 # Hi, I'm Swapnil Parashar! 
 
-A dedicated Front-end Developer with over an year of experience, specializing in React.js and Next.js. Demonstrates a unique strength in completing tasks regardless of current skill level by leveraging modern AI tools to transform ideas into code, even when unfamiliar with the technology. Seeking a role to grow as a front-end developer and expand knowledge across different fields.
+A dedicated Front-end Developer with over an year of experience, specializing in React.js and Next.js. Demonstrating a unique strength in completing tasks regardless of current skill level by leveraging modern AI tools to transform ideas into code, even when unfamiliar with the technology. Seeking a role to grow as a front-end developer and expand knowledge across different fields.
 
 ![<Swapnil-Parashar>'s Stats](https://github-readme-stats.vercel.app/api?username=Swapnil-Parashar&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
