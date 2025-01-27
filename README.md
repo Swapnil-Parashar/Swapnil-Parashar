@@ -12,6 +12,8 @@ A dedicated Front-end Developer with over an year of experience, specializing in
 - Successfully completed an internship where I developed an admin panel for a Social Media Marketing (SMM) platform, focusing extensively on API calls and hooks.
 - Currently engaged in a personal project, Shoefu, working on integrating Firebase for backend services and implementing payment methods like UPI.
 
+![<Swapnil-Parashar>'s Stats](https://streak-stats.demolab.com?user=Swapnil-Parashar&theme=dark&hide_border=true)
+
 
 ## Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,next,vue,github)](https://skillicons.dev)
