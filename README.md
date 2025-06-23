@@ -66,7 +66,8 @@ A dedicated Front-end Developer with over a year of experience, specializing in 
 
 - **GATE 2024 Qualified**: Achieved a score of 400 in the third year of college.  
 - **GDSC Open-Source Lead**: Increased participation by 10% in collaborative projects.  
-- Competed in FrostHack 2k23 at IIT Mandi, developing a seamless carpooling platform for colleges in remote areas.  
+- Competed in FrostHack 2k23 at IIT Mandi, developing a seamless carpooling platform for colleges in remote areas.
+- [![](https://jitpack.io/v/Mantracare-Org/android-scalablevideoview.svg)](https://jitpack.io/#Mantracare-Org/android-scalablevideoview)
 
 ---
 
